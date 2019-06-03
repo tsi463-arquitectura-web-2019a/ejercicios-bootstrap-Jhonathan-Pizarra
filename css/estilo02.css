@@ -1,0 +1,40 @@
+body{
+    background-color: grey;
+}
+.container{
+    background-color: white;
+}
+
+div[name="Jhon_Doe"]{
+    background-color: #E8E8E7;
+    padding-top: 10px;
+}
+
+div[name="imagen"]{
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 5px;
+}
+
+div[name="linea"]{
+    background-color: #8BCC98;
+    padding-left: 0px;
+    padding-right: 0px;
+   
+}
+
+div[name="texto"]{
+    padding-top: 5px;
+    background-color: white;
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+
+}
+
+col{
+    padding: 30px;
+}
+
